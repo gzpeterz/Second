@@ -3,12 +3,12 @@
  */
 package com.hc;
 
-/**
- * @author Administrator
- *
- */
+
 public class Hello {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		System.out.println("this is aa test");
 		System.out.println("this is bbbb test");
@@ -21,6 +21,12 @@ public class Hello {
 		// jdksajfkas
 		
 		// dsajfka
-
+		
+		/**
+		 * @author xzz
+		 *
+		 */
+		
+		System.out.println("hahah");
 	}
 }
